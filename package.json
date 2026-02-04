@@ -1,9 +1,12 @@
 {
-  "name": "cpuschedulerjs",
-  "version": "1.0.1",
+  "name": "@thenabinamallik/cpuschedulerjs",
+  "version": "1.0.2",
   "description": "CPU scheduling algorithms implemented in JavaScript",
   "type": "module",
-  "main": "src/index.js",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/thenabinamallik/cpuschedulerjs.git"
+  },
   "keywords": [
     "cpu-scheduling",
     "operating-system",
@@ -16,5 +19,5 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^25.2.0"
-  }
+    }
 }
