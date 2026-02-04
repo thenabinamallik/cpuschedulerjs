@@ -848,12 +848,3 @@ const { gantt } = roundRobin(processes, 2);
 ```
 
 ---
-
-## Final reality check (important)
-
-You now have:
-
-* Starvation prevention (aging)
-* Real overhead modeling
-* Linux-style fairness
-* Visual feedback
