@@ -1,0 +1,20 @@
+{
+  "name": "cpuschedulerjs",
+  "version": "1.0.1",
+  "description": "CPU scheduling algorithms implemented in JavaScript",
+  "type": "module",
+  "main": "src/index.js",
+  "keywords": [
+    "cpu-scheduling",
+    "operating-system",
+    "fcfs",
+    "sjf",
+    "round-robin",
+    "mlfq"
+  ],
+  "author": "Nabina Mallik",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.2.0"
+  }
+}
